@@ -3,6 +3,7 @@
 # 100 points
 # -10 for wrong answers
 # at zero points, restart game
+# written by: Emilio
 import random
 
 
