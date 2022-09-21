@@ -4,6 +4,8 @@
 # -10 for wrong answers
 # at zero points, restart game
 # written by: Emilio
+# another comment
+
 import random
 
 
