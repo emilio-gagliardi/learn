@@ -5,7 +5,7 @@
 # at zero points, restart game
 # written by: Emilio
 # another comment
-
+import requests
 import random
 
 
